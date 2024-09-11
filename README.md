@@ -47,11 +47,3 @@
 <hr/>
 <div align="center">
   
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZiyanHaidar&theme=highcontrast&background=000000&border=DD2727&stroke=BB22CC&ring=DDDD33&fire=DD2727&currStreakLabel=DDDD33)](https://git.io/streak-stats)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyanHaidar&theme=radical&layout=compact&hide_border=true)](https://github.com/ZiyanHaidar/github-readme-stats)
-
----
-</div>
